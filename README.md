@@ -1,2 +1,1 @@
-# HTML-Portfolio
-About me
+Link: https://navinxqz.github.io/HTML-Portfolio/
