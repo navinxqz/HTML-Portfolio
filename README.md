@@ -1,1 +1,1 @@
-Link: https://navinxqz.github.io/HTML-Portfolio/
+Demo Link: https://navinxqz.github.io/HTML-Portfolio/
